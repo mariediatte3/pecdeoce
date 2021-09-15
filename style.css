@@ -1,0 +1,147 @@
+
+		body
+		{
+            margin: 0px;
+            padding: 0px;
+		}
+
+		header
+		{
+			width: 100%;
+			height: 100px;
+			background: hotpink;
+            margin: 0;
+           
+		}
+
+		.logo{
+			float: left;
+			width: 100px;
+			height: 80px;
+            padding-top: 6px;
+			margin-left: 7px;
+		}
+		.new{
+			text-align: center;
+			line-height: 2;
+            padding-top: 30px;
+        }
+
+        .new a{
+            margin: 30px;
+            text-decoration: none;
+            color: #fff;
+            font-size: 25px;
+        }
+        
+        .titre {
+            text-align: center;
+            padding-top: 7px;
+            padding-bottom: 10px;
+            font-size: 30px;
+        }
+		
+
+		.main{
+			width: 100%;
+			min-height: 500px;
+			/* border: 1px solid black; */
+            margin: 0px;
+            margin-top: 14px;
+            margin-left: 40px;
+           
+		}
+
+		footer{
+			width: 100%;
+			height: 70px;
+			border: 1px solid hotpink;
+		}
+
+        .text{
+            margin-left: 21%;
+            float: right;
+        }
+        .solo{
+            /* border: 1px solid black; */
+            display: flex;
+        }
+
+        .solo img {
+            margin-left: 130px;
+            padding-bottom: 46px;
+        }
+
+        .solo p {
+            margin-left: 100px;
+            text-align: center;
+            margin-top: 100px;
+            margin-right: 150px;
+        }
+        img{
+            width: 300px;
+            
+
+        }
+
+        .left img{
+            width: 65px;
+            margin-right: 15px;
+        }
+
+        .center img{
+            width: 50px;
+            margin-right: 15px;
+        }
+
+        .right img{
+            width: 65px;
+            margin-right: 15px;
+            
+        }
+
+        .flexbox{
+            display: flex;
+            float: right;
+            margin-right: 30px;
+        }
+
+        .flexbox p{
+            margin-right: 860px;
+        }
+
+        .activites{
+           font-family: serif;
+            margin-left: 200px;
+            margin-right: 200px;
+            text-align: center;
+            margin-top: 50px;
+        }
+        
+        .apropos{
+            padding-top: 10vh;
+            
+        }
+        .paragraphe p{
+            font-family: serif;
+            margin-left: 200px;
+            margin-right: 200px;
+            text-align: center;
+            margin-top: 50px;
+        }
+        .paragraphe h1 {
+            text-align:center;
+        }
+
+        .contact h1{
+            text-align: center;
+        }
+
+        .contact fieldset {
+             margin-left: 200px;
+            margin-right: 200px;
+        }
+
+         .contact fieldset p {
+            text-align: center;
+        }
